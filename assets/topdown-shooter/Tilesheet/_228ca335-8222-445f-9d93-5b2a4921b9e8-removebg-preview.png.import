@@ -1,0 +1,35 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/_228ca335-8222-445f-9d93-5b2a4921b9e8-removebg-preview.png-85ffbdaa41ff97842e53cce6ef5df2ee.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://assets/topdown-shooter/Tilesheet/_228ca335-8222-445f-9d93-5b2a4921b9e8-removebg-preview.png"
+dest_files=[ "res://.import/_228ca335-8222-445f-9d93-5b2a4921b9e8-removebg-preview.png-85ffbdaa41ff97842e53cce6ef5df2ee.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+process/normal_map_invert_y=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0
